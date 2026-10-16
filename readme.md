@@ -5,9 +5,9 @@ Ich möchte if / else üben und damit ich das kann muss ich ein neues Programm m
 
 ## 16.10.2026
 
-- [ ] If/else übung mit einer Schatzsuche mit Positionen anfangen: Von 1-50 wird eine Zahl generiert, man gibt eine Zahl ein
-- [ ] Schatzsuche fertig programmieren: Programm gibt Rückmeldung, ob die eingebene Zahl höher oder tiefer ist (warm oder kalt), und sagt, wenn man den Schatz gefunden hat.
-- [ ] 
+- [X] If/else übung mit einer Schatzsuche mit Positionen anfangen: Von 1-50 wird eine Zahl generiert, man gibt eine Zahl ein
+- [X] Schatzsuche fertig programmieren: Programm gibt Rückmeldung, ob die eingebene Zahl höher oder tiefer ist (warm oder kalt), und sagt, wenn man den Schatz gefunden hat.
+
 ✍️ Heute habe ich... (50-100 Wörter)
 ## Zusammenfassung
 Ich habe heute ein Number Guesser programmiert und angefangen eine Schatzsuche zu machen.
