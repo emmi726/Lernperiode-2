@@ -14,7 +14,34 @@ Ich habe heute ein Number Guesser programmiert und angefangen eine Schatzsuche z
 
 
 ## 23.10.2026
-- [ ] Eine weitere Übung mit if / else: Passwort knacker: vierstelliges Code muss der Spieler erraten.
-- [ ] Passwort knacker: Code zu klein dann der Code ist höher, Code ist zu gross dann der Code ist tiefer, Code richtig dann Zugriff erlauben
-- [ ] Programm fertig programmieren: Nach fünf versuchen dann Zugriff gesperrt, Eingabe ausserhalb 1111 und 9999 dann ungültiges Code
-- [ ] Outfit Planner anfangen: Kleidung hinzufügen und speichern.
+- [X] Eine weitere Übung mit if / else: Passwort knacker: vierstelliges Code muss der Spieler erraten.
+- [X] Passwort knacker: Code zu klein dann der Code ist höher, Code ist zu gross dann der Code ist tiefer, Code richtig dann Zugriff erlauben
+- [X] Programm fertig programmieren: Nach acht Versuchen dann Zugriff gesperrt, Eingabe ausserhalb 1111 und 9999 dann ungültiges Code
+- [ ] Outfit Planner anfangen: Hauptmenu anfangen und es wählbar machen
+
+## Zusammenfassung
+Ich habe heute geschafft den Passwort knacker fertig zu erstellen und es hat gut funktioniert.
+
+## 30.11.2026
+- [ ] Outfit planner: muss in der ersten Zahl funktionieren 
+- [ ] Outfit planner: in der ersten zahl muss es zuerst etwas aus geben und der Benutzer muss es antworten
+- [ ] Outfit planner: muss 
+- [ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
