@@ -4,39 +4,38 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Schatzsuche_mit_Positionen
+namespace Passwort_knacker
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Willkommen bei der Schatzsuche!");
+            Console.WriteLine("Willkommen beim Passwort knacker!");
+            Console.WriteLine("Errate eine Zahl von 1111 bis 9999.");
             Random random = new Random();
-            int computerzahl = random.Next(1, 51);
-            int guesser = 0;
-            while (guesser != computerzahl)
+            int computerzahl = random.Next(1111, 10000);
+            for (int i = 1; i <= 8; i++)
             {
-                Console.WriteLine("Position eingeben: ");
-                guesser = Convert.ToInt32(Console.ReadLine());
-                int entfernung = Math.Abs(guesser - computerzahl);
-                if (entfernung > 15)
+                Console.WriteLine("Gib ein Code ein:");
+                int code = Convert.ToInt32(Console.ReadLine());
+                if (code < 1111 || code > 9999)
                 {
-                    Console.WriteLine("Sehr weit weg! ");
+                    Console.WriteLine("Ungültiges Code!");
                 }
-                else if (entfernung >= 6)
+                else if (code < computerzahl)
                 {
-                    Console.WriteLine("Du kommst näher!");
+                    Console.WriteLine("Der Code ist höher!");
                 }
-                else if (entfernung >= 1)
+                else if (code > computerzahl)
                 {
-                    Console.WriteLine("Sehr heiss!");
-                }
-                else
+                    Console.WriteLine("Der Code ist tiefer!");
+                }else
                 {
-                    Console.WriteLine("Schatz gefunden");
+                    Console.WriteLine("Richtig! Zugriff erlaubt!");
                 }
-
             }
+            Console.WriteLine("Zugriff gesperrt!");
+            Console.WriteLine("Die Zahl war " + computerzahl);
         }
-     }
+    }
 }
