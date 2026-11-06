@@ -41,10 +41,10 @@ Heute habe ich an meinem Projekt „Outfit Planner“ weitergearbeitet. Ich habe
 Heute habe ich an meinem Outfit Planner weitergearbeitet. Ich habe die Auswahlen 1,2 und 3 verbessert und die anderen Auswahlen bis und mit 6 gemacht. Ich habe die Kleidungsstücke in Oberteile, Hosen und Schuhe aufgeteilt. Danach habe ich die Funktionen programmiert, mit denen man ein eigenes Outfit zusammenstellen oder ein zufälliges Outfit erstellen kann. Ausserdem habe ich eine Funktion gemacht, die je nach Wetter ein Outfit vorschlägt. Dabei habe ich mit Listen, for-Schleifen, if-Abfragen und Random gearbeitet. Am Schluss habe ich meinen Code getestet und einige Fehler verbessert.
 
 ## 13.11.2026
-- [ ]Outfit Planner: Outfit nach Anlass auswählen (Auswahl 7), Benutzer zwischen Schule, Sport und Fest wählen lassen. Für jeden Anlass passende Oberteile, Hosen und Schuhe festlegen. Das fertige Outfit anzeigen.
-- [ ]Outfit Planner: Outfit nach Farbe auswählen (Auswahl 8), Benutzer eine Farbe eingeben lassen. Die gespeicherten Kleidungsstücke nach dieser Farbe durchsuchen. Alle passenden Kleidungsstücke anzeigen. Falls nichts gefunden wird, eine Meldung ausgeben.
-- [ ]Outfit Planner: Outfit nach Style auswählen (Auswahl 8), Benutzer zwischen sportlich, elegant und casual wählen lassen. Für jeden Style passende Kleidung festlegen. Farbe und Style kombinieren und ein passendes Outfit anzeigen.
-- [ ]Outfit Planner: Favoriten speichern (Auswahl 9),Eine Liste für Favoriten erstellen. Das zuletzt erstellte Outfit auswählen und als Favorit speichern. Eine Bestätigung anzeigen und testen, ob das Speichern funktioniert.
+- [ ] Outfit Planner: Outfit nach Anlass auswählen (Auswahl 7), Benutzer zwischen Schule, Sport und Fest wählen lassen. Für jeden Anlass passende Oberteile, Hosen und Schuhe festlegen. Das fertige Outfit anzeigen.
+- [ ] Outfit Planner: Outfit nach Farbe auswählen (Auswahl 8), Benutzer eine Farbe eingeben lassen. Die gespeicherten Kleidungsstücke nach dieser Farbe durchsuchen. Alle passenden Kleidungsstücke anzeigen. Falls nichts gefunden wird, eine Meldung ausgeben.
+- [ ] Outfit Planner: Outfit nach Style auswählen (Auswahl 8), Benutzer zwischen sportlich, elegant und casual wählen lassen. Für jeden Style passende Kleidung festlegen. Farbe und Style kombinieren und ein passendes Outfit anzeigen.
+- [ ] Outfit Planner: Favoriten speichern (Auswahl 9),Eine Liste für Favoriten erstellen. Das zuletzt erstellte Outfit auswählen und als Favorit speichern. Eine Bestätigung anzeigen und testen, ob das Speichern funktioniert.
   
 
 
