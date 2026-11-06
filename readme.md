@@ -32,14 +32,20 @@ Ich habe heute geschafft den Passwort knacker fertig zu erstellen und es hat gut
 Heute habe ich an meinem Projekt „Outfit Planner“ weitergearbeitet. Ich habe die Funktionen zum Hinzufügen, Anzeigen und Suchen von Kleidungsstücken programmiert. Dabei habe ich mit Listen, for-Schleifen und if-Abfragen gearbeitet. Ausserdem habe ich gelernt, wie man mit bool überprüft, ob etwas gefunden wurde, und wie man mit ToLower() die Gross- und Kleinschreibung ignoriert.
 
 ## 6.11.2026
-- [ ] Outfit planner: Eigenes Outfit zusammenstellen (Alle gespeicherten Kleidungsstücke anzeigen.Benutzer ein Oberteil, eine Hose und Schuhe auswählen lassen.Die ausgewählten Kleidungsstücke zu einem Outfit zusammenstellen und anzeigen.)
-- [ ] Outfit planner: Zufälliges Outfit erstellen (Alle gespeicherten Kleidungsstücke anzeigen.Zufällig ein Oberteil, eine Hose und Schuhe auswählen.Das fertige Outfit mit allen drei Kleidungsstücken anzeigen.)
-- [ ] Outfit planner: Outfit passend zum Wetter (Benutzer zwischen sonnig, regnerisch und kalt wählen lassen.Je nach Wetter passende Kleidung auswählen.Das zusammengestellte Outfit anzeigen.)
-- [ ] Outfit planner: Die Funktionen 4, 5 und 6 testen und Fehler beheben und wenn nötig den Code besser anschauen.
+- [X] Outfit planner: Eigenes Outfit zusammenstellen (Alle gespeicherten Kleidungsstücke anzeigen.Benutzer ein Oberteil, eine Hose und Schuhe auswählen lassen.Die ausgewählten Kleidungsstücke zu einem Outfit zusammenstellen und anzeigen.)
+- [X] Outfit planner: Zufälliges Outfit erstellen (Alle gespeicherten Kleidungsstücke anzeigen.Zufällig ein Oberteil, eine Hose und Schuhe auswählen.Das fertige Outfit mit allen drei Kleidungsstücken anzeigen.)
+- [X] Outfit planner: Outfit passend zum Wetter (Benutzer zwischen sonnig, regnerisch und kalt wählen lassen.Je nach Wetter passende Kleidung auswählen.Das zusammengestellte Outfit anzeigen.)
+- [X] Outfit planner: Die Funktionen 4, 5 und 6 testen und Fehler beheben und wenn nötig den Code besser anschauen.
       
 ## Zusammenfassung
+Heute habe ich an meinem Outfit Planner weitergearbeitet. Ich habe die Auswahlen 1,2 und 3 verbessert und die anderen Auswahlen bis und mit 6 gemacht. Ich habe die Kleidungsstücke in Oberteile, Hosen und Schuhe aufgeteilt. Danach habe ich die Funktionen programmiert, mit denen man ein eigenes Outfit zusammenstellen oder ein zufälliges Outfit erstellen kann. Ausserdem habe ich eine Funktion gemacht, die je nach Wetter ein Outfit vorschlägt. Dabei habe ich mit Listen, for-Schleifen, if-Abfragen und Random gearbeitet. Am Schluss habe ich meinen Code getestet und einige Fehler verbessert.
 
-
+## 13.11.2026
+- [ ]Outfit Planner: Outfit nach Anlass auswählen (Auswahl 7), Benutzer zwischen Schule, Sport und Fest wählen lassen. Für jeden Anlass passende Oberteile, Hosen und Schuhe festlegen. Das fertige Outfit anzeigen.
+- [ ]Outfit Planner: Outfit nach Farbe auswählen (Auswahl 8), Benutzer eine Farbe eingeben lassen. Die gespeicherten Kleidungsstücke nach dieser Farbe durchsuchen. Alle passenden Kleidungsstücke anzeigen. Falls nichts gefunden wird, eine Meldung ausgeben.
+- [ ]Outfit Planner: Outfit nach Style auswählen (Auswahl 8), Benutzer zwischen sportlich, elegant und casual wählen lassen. Für jeden Style passende Kleidung festlegen. Farbe und Style kombinieren und ein passendes Outfit anzeigen.
+- [ ]Outfit Planner: Favoriten speichern (Auswahl 9),Eine Liste für Favoriten erstellen. Das zuletzt erstellte Outfit auswählen und als Favorit speichern. Eine Bestätigung anzeigen und testen, ob das Speichern funktioniert.
+  
 
 
 
