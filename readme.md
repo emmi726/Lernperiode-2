@@ -45,6 +45,16 @@ Heute habe ich an meinem Outfit Planner weitergearbeitet. Ich habe die Auswahlen
 - [ ] Outfit Planner: Outfit nach Farbe auswählen (Auswahl 8), Benutzer eine Farbe eingeben lassen. Die gespeicherten Kleidungsstücke nach dieser Farbe durchsuchen. Alle passenden Kleidungsstücke anzeigen. Falls nichts gefunden wird, eine Meldung ausgeben.
 - [ ] Outfit Planner: Outfit nach Style auswählen (Auswahl 8), Benutzer zwischen sportlich, elegant und casual wählen lassen. Für jeden Style passende Kleidung festlegen. Farbe und Style kombinieren und ein passendes Outfit anzeigen.
 - [ ] Outfit Planner: Favoriten speichern (Auswahl 9),Eine Liste für Favoriten erstellen. Das zuletzt erstellte Outfit auswählen und als Favorit speichern. Eine Bestätigung anzeigen und testen, ob das Speichern funktioniert.
+
+## Zusammenfassung
+Heute habe ich weiter an meinem Projekt Outfit Planner gearbeitet. Ich habe die Auswahlen 7, 8 und 9 programmiert. Bei Auswahl 7 kann man jetzt einen Anlass auswählen und bekommt ein passendes Outfit vorgeschlagen. Bei Auswahl 8 kann der Benutzer eine Farbe und einen Style auswählen. Danach wird ein passendes Outfit angezeigt. Bei Auswahl 9 kann man sein zuletzt erstelltes Outfit als Favorit speichern und so eine Favoritenliste erstellen.
+
+## 20.11.2026
+- [ ] Outfit Planner: Favoriten anzeigen (Auswahl 10)Alle gespeicherten Lieblingsoutfits aus der Favoritenliste anzeigen. Die Outfits mit einer Nummer auflisten. Falls noch keine Favoriten gespeichert wurden, eine Meldung ausgeben.
+- [ ] Outfit Planner: Outfit-Verlauf anzeigen (Auswahl 11)Alle bisher erstellten Outfits aus der Liste outfitVerlauf anzeigen. Die Outfits in der richtigen Reihenfolge mit Nummern auflisten. Falls noch keine Outfits erstellt wurden, eine Meldung anzeigen.
+- [ ] Outfit Planner: Letztes Outfit anzeigen (Auswahl 12)Das zuletzt erstellte Outfit mit der Variable letztesOutfit anzeigen. Überprüfen, ob bereits ein Outfit erstellt wurde. Falls noch kein Outfit vorhanden ist, eine passende Meldung ausgeben.
+- [ ] Outfit Planner: Funktionen 10, 11 und 12 testen und verbessern. Mehrere Outfits erstellen und als Favoriten speichern. Kontrollieren, ob die Favoriten, der Outfit-Verlauf und das letzte Outfit richtig angezeigt werden. Mögliche Fehler im Code suchen und beheben.
+
   
 
 
