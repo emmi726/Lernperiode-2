@@ -50,11 +50,22 @@ Heute habe ich an meinem Outfit Planner weitergearbeitet. Ich habe die Auswahlen
 Heute habe ich weiter an meinem Projekt Outfit Planner gearbeitet. Ich habe die Auswahlen 7, 8 und 9 programmiert. Bei Auswahl 7 kann man jetzt einen Anlass auswählen und bekommt ein passendes Outfit vorgeschlagen. Bei Auswahl 8 kann der Benutzer eine Farbe und einen Style auswählen. Danach wird ein passendes Outfit angezeigt. Bei Auswahl 9 kann man sein zuletzt erstelltes Outfit als Favorit speichern und so eine Favoritenliste erstellen.
 
 ## 20.11.2026
-- [ ] Outfit Planner: Favoriten anzeigen (Auswahl 10)Alle gespeicherten Lieblingsoutfits aus der Favoritenliste anzeigen. Die Outfits mit einer Nummer auflisten. Falls noch keine Favoriten gespeichert wurden, eine Meldung ausgeben.
-- [ ] Outfit Planner: Outfit-Verlauf anzeigen (Auswahl 11)Alle bisher erstellten Outfits aus der Liste outfitVerlauf anzeigen. Die Outfits in der richtigen Reihenfolge mit Nummern auflisten. Falls noch keine Outfits erstellt wurden, eine Meldung anzeigen.
-- [ ] Outfit Planner: Letztes Outfit anzeigen (Auswahl 12)Das zuletzt erstellte Outfit mit der Variable letztesOutfit anzeigen. Überprüfen, ob bereits ein Outfit erstellt wurde. Falls noch kein Outfit vorhanden ist, eine passende Meldung ausgeben.
-- [ ] Outfit Planner: Funktionen 10, 11 und 12 testen und verbessern. Mehrere Outfits erstellen und als Favoriten speichern. Kontrollieren, ob die Favoriten, der Outfit-Verlauf und das letzte Outfit richtig angezeigt werden. Mögliche Fehler im Code suchen und beheben.
+- [X] Outfit Planner: Favoriten anzeigen (Auswahl 10)Alle gespeicherten Lieblingsoutfits aus der Favoritenliste anzeigen. Die Outfits mit einer Nummer auflisten. Falls noch keine Favoriten gespeichert wurden, eine Meldung ausgeben.
+- [X] Outfit Planner: Outfit-Verlauf anzeigen (Auswahl 11)Alle bisher erstellten Outfits aus der Liste outfitVerlauf anzeigen. Die Outfits in der richtigen Reihenfolge mit Nummern auflisten. Falls noch keine Outfits erstellt wurden, eine Meldung anzeigen.
+- [X] Outfit Planner: Letztes Outfit anzeigen (Auswahl 12)Das zuletzt erstellte Outfit mit der Variable letztesOutfit anzeigen. Überprüfen, ob bereits ein Outfit erstellt wurde. Falls noch kein Outfit vorhanden ist, eine passende Meldung ausgeben.
+- [X] Outfit Planner: Funktionen 10, 11 und 12 testen und verbessern. Mehrere Outfits erstellen und als Favoriten speichern. Kontrollieren, ob die Favoriten, der Outfit-Verlauf und das letzte Outfit richtig angezeigt werden. Mögliche Fehler im Code suchen und beheben.
+      
+## Zusammenfassung
+Heute habe ich an meinem Projekt «Outfit Planner» weitergearbeitet. Ich habe die Auswahlen 10, 11, 12 und 13 programmiert. Bei Auswahl 10 kann man jetzt alle gespeicherten Favoriten anzeigen lassen. Bei Auswahl 11 sieht man den Verlauf von allen Outfits, die man bisher erstellt hat. Bei Auswahl 12 kann man das zuletzt erstellte Outfit nochmals anschauen. Zusätzlich habe ich bei Auswahl 13 eine Statistik erstellt, die zeigt, wie viele Kleidungsstücke, Outfits und Favoriten gespeichert wurden. Dabei habe ich vor allem mit Listen, for-Schleifen, if-Abfragen und Count gearbeitet.
 
+## 27.11.2026
+- [ ] Outfit Planner: Hilfe und Informationen (Auswahl 14).Eine Anleitung für den Outfit Planner erstellen. Alle Funktionen kurz erklären und dem Benutzer zeigen, wie das Programm funktioniert. Die Informationen übersichtlich anzeigen.
+
+- [ ] Outfit Planner: Programm beenden (Auswahl 15) und testen. Eine Abschiedsnachricht anzeigen, wenn der Benutzer 15 auswählt. Das Programm danach beenden. Alle 15 Funktionen nochmals testen und mögliche Fehler verbessern.
+
+- [ ] Neues Projekt: Notenrechner planen. Ein neues C#-Projekt erstellen, das etwas schwieriger ist als der Outfit Planner. Einen Notenrechner programmieren, bei dem man verschiedene Schulfächer und mehrere Noten eingeben kann. Überlegen, wie man die Noten in Listen speichern und den Durchschnitt berechnen kann.
+
+- [ ] Neues Projekt: Notenrechner mit ersten Funktionen programmieren. Ein Hauptmenü mit einer while-Schleife erstellen. Den Benutzer ein Schulfach und mehrere Noten eingeben lassen. Die Noten in Listen speichern und den Durchschnitt mit einer for-Schleife berechnen. Das Ergebnis auf zwei Dezimalstellen runden und anzeigen. Die Funktionen testen.
   
 
 
